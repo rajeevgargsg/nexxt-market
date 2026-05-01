@@ -1,1 +1,0 @@
-# NexxtMarket test package
